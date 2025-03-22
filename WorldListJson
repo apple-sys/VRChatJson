@@ -28,7 +28,7 @@
                         "PC": true,
                         "Android": false
                     }
-                },
+                }
             ]
         },
         {
@@ -44,10 +44,9 @@
                     "Platform": {
                         "PC": true,
                         "Android": false
-                    },
-                },
+                    }
+                }
              ]
-        },
-        ...
+        }
     ]
 }
