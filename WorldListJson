@@ -1,46 +1,100 @@
 {
-  "ReverseCategorys": false,
-  "ShowPrivateWorld": false,
-  "Categorys": [
-    {
-      "Category": "個室系",
-      "Worlds": [
-        {
-          "ID": "wrld_fb8d2807-1174-4894-8873-785b4daa1908",
-          "Name": "シャオンちゃん交流会会場",
-          "RecommendedCapacity": 20,
-          "Capacity": 40,
-          "Description": "シャオンちゃん試着会兼交流会場・歴代のシャオンちゃんモデルとか三面図とかキャラデザのギャラリーつき 2021⁄08⁄06 Unity2019対応",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
+    "ReverseCategorys": false,
+    "ShowPrivateWorld": false,
+    "Categorys": [
+      {
+        "Category": "個室系",
+        "Worlds": [
+          {
+            "ID": "wrld_a8985092-074c-4472-8d05-8df3a0f82c98",
+            "Name": "Lumen",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
+            "Name": "Celestia",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
+            "Name": "ドラえもんのび太ハウス -doraemon nobita house-",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_6f9a1aec-ef34-4c52-af20-d2dd9ea17e21",
+            "Name": "Luculia-ルクリア-",
+            "Description": "description",
+            "ReleaseStatus": "public"
           }
-        },
-        {
-          "ID": "wrld_466b6925-5e0c-4e7d-9e71-2a0c0057ff55",
-          "Name": "BIG Shaon Avatar",
-          "RecommendedCapacity": 16,
-          "Capacity": 32,
-          "Description": "大きいシャオンちゃんのワールド！",
-          "ReleaseStatus": "public",
-          "Platform": {
-            "PC": true,
-            "Android": false
+        ]
+      },
+      {
+        "Category": "きれい系",
+        "Worlds": [
+          {
+            "ID": "wrld_5ce10219-2a08-41ad-b52e-9d98c18617ea",
+            "Name": "HARBOR shina-shina （Udon）",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_2a99c003-c59b-4a6a-afee-0d28a38ba5ba",
+            "Name": "宿直 midnight school",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_e171470e-5418-4c55-9293-ca746a5344e5",
+            "Name": "bit countryside",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
+            "Name": "Absence",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_ab92dc34-8024-40c6-839e-41778c72f45d",
+            "Name": "ことはのすいてい。",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_679cc08f-e481-4927-963e-9fddd6d98e7f",
+            "Name": "夜のコンビニ night convenience store",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_493f28a8-5fc2-42af-9a5d-28f6343ec070",
+            "Name": "Methamphetamine",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
+            "Name": "Milky-Dawn Junction - 朝焼けジャンクション -",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_277a1337-f425-44c9-a18d-9287665cc7c2",
+            "Name": "地下シャッター街",
+            "Description": "description",
+            "ReleaseStatus": "public"
+          },
+          {
+            "ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
+            "Name": "遠鯨埠頭 onkei wharf",
+            "Description": "description",
+            "ReleaseStatus": "public"
           }
-        }
-      ]
-    },
-    {
-      "Category": "きれい系",
-      "Worlds": [
-        {
-          "ID": "wrld_5ce10219-2a08-41ad-b52e-9d98c18617ea",
-          "Name": "HARBOR shina-shina （Udon）",
-          "Description": "サフィーちゃん誕生日会、兼、フォトコンテスト掲載Worldです。まだテスト中。",
-          "ReleaseStatus": "public"
-        }
-      ]
-    }
-  ]
-}
+        ]
+      }
+    ]
+  }
