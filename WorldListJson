@@ -1,100 +1,295 @@
 {
-    "ReverseCategorys": false,
-    "ShowPrivateWorld": false,
-    "Categorys": [
-      {
-        "Category": "個室系",
-        "Worlds": [
-          {
-            "ID": "wrld_a8985092-074c-4472-8d05-8df3a0f82c98",
-            "Name": "Lumen",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
-            "Name": "Celestia",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
-            "Name": "ドラえもんのび太ハウス -doraemon nobita house-",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_6f9a1aec-ef34-4c52-af20-d2dd9ea17e21",
-            "Name": "Luculia-ルクリア-",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          }
-        ]
-      },
-      {
-        "Category": "きれい系",
-        "Worlds": [
-          {
-            "ID": "wrld_5ce10219-2a08-41ad-b52e-9d98c18617ea",
-            "Name": "HARBOR shina-shina （Udon）",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_2a99c003-c59b-4a6a-afee-0d28a38ba5ba",
-            "Name": "宿直 midnight school",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_e171470e-5418-4c55-9293-ca746a5344e5",
-            "Name": "bit countryside",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
-            "Name": "Absence",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_ab92dc34-8024-40c6-839e-41778c72f45d",
-            "Name": "ことはのすいてい。",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_679cc08f-e481-4927-963e-9fddd6d98e7f",
-            "Name": "夜のコンビニ night convenience store",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_493f28a8-5fc2-42af-9a5d-28f6343ec070",
-            "Name": "Methamphetamine",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
-            "Name": "Milky-Dawn Junction - 朝焼けジャンクション -",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_277a1337-f425-44c9-a18d-9287665cc7c2",
-            "Name": "地下シャッター街",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          },
-          {
-            "ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
-            "Name": "遠鯨埠頭 onkei wharf",
-            "Description": "description",
-            "ReleaseStatus": "public"
-          }
-        ]
-      }
-    ]
-  }
+  "ReverseCategorys": false,
+  "ShowPrivateWorld": false,
+  "Categorys": [
+    {
+      "Category": "個室系",
+      "Worlds": [
+        {
+          "ID": "wrld_a8985092-074c-4472-8d05-8df3a0f82c98",
+          "Name": "Lumen",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
+          "Name": "Celestia",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
+          "Name": "ドラえもんのび太ハウス -doraemon nobita house-",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6f9a1aec-ef34-4c52-af20-d2dd9ea17e21",
+          "Name": "Luculia-ルクリア-",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_26edae3c-5e44-4c10-b708-a6832cb8a1cc",
+          "Name": "Room ＂A＂",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "きれい系",
+      "Worlds": [
+        {
+          "ID": "wrld_5ce10219-2a08-41ad-b52e-9d98c18617ea",
+          "Name": "HARBOR shina-shina （Udon）",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b6f22e8e-1264-4b9e-9c24-27418e7c67f7",
+          "Name": "Neon Laundry",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a008520f-c412-4068-9554-b2c86a4736a6",
+          "Name": "Monolith",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_0c3c0636-00db-4e81-87a4-ff0bac24856c",
+          "Name": "Esoterica",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_139e7ad8-c30f-4fa1-a019-3ebb27ef59c1",
+          "Name": "NYC Train Station Aquarium （Render）",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ed737e5c-1969-41b1-8556-97f7058fb918",
+          "Name": "Studio 11",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_509a5ea7-1752-4d3c-aa72-0e055cffef63",
+          "Name": "Dream and Fragments~夢と断片~",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_3ac3a13c-ac33-42cc-bf55-4a495a3b2ad8",
+          "Name": "比率谷線 狭尾駅 - Hiriya Line _ Kyoubi Sta․ -",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d642790c-b867-4663-b465-fb12850a240a",
+          "Name": "Russian Entrance by Rekat_16",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_a7132cc5-b4bc-448c-9657-e88bb0c6aa07",
+          "Name": "SECTOR 43",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2a99c003-c59b-4a6a-afee-0d28a38ba5ba",
+          "Name": "宿直 midnight school",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e171470e-5418-4c55-9293-ca746a5344e5",
+          "Name": "bit countryside",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_fb27b756-fd6a-44ff-ae28-6c8642499aa4",
+          "Name": "Absence",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ab92dc34-8024-40c6-839e-41778c72f45d",
+          "Name": "ことはのすいてい。",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_679cc08f-e481-4927-963e-9fddd6d98e7f",
+          "Name": "夜のコンビニ night convenience store",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_493f28a8-5fc2-42af-9a5d-28f6343ec070",
+          "Name": "Methamphetamine",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_60300d73-dd92-47d6-a5d3-ad3b7676d0a5",
+          "Name": "Milky-Dawn Junction - 朝焼けジャンクション -",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_277a1337-f425-44c9-a18d-9287665cc7c2",
+          "Name": "地下シャッター街",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_ea130b45-a7bb-48d9-be16-3cced05cc794",
+          "Name": "遠鯨埠頭 onkei wharf",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_e42e2ee1-1898-4857-95b6-a6dc92d646b4",
+          "Name": "撮影用治安が悪い裏路地 VCC240726",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b8db9a13-9c93-4088-9063-48ada5f737dd",
+          "Name": "Sanctuary",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c6749b86-f040-42c5-8acc-281d3a7a2a67",
+          "Name": "Temporary Shrine",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "フォトグラメトリ",
+      "Worlds": [
+        {
+          "ID": "wrld_cc905a73-a346-4575-82c0-83affcbd9304",
+          "Name": "Natural History Museum - Hintze Hall",
+          "Description": "ロンドン自然史博物館",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
+          "Name": "Celestia",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
+          "Name": "ドラえもんのび太ハウス -doraemon nobita house-",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6f9a1aec-ef34-4c52-af20-d2dd9ea17e21",
+          "Name": "Luculia-ルクリア-",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "ポータルワールド",
+      "Worlds": [
+        {
+          "ID": "wrld_cc905a73-a346-4575-82c0-83affcbd9304",
+          "Name": "Natural History Museum - Hintze Hall",
+          "Description": "ロンドン自然史博物館",
+          "ReleaseStatus": "public"
+        }
+      ]
+    },
+    {
+      "Category": "フォトスタジオ系",
+      "Worlds": [
+        {
+          "ID": "wrld_beceefff-0b61-441a-bd2a-86ff1d611921",
+          "Name": "flower_photostudio",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_4f0261c4-57ad-48f1-a792-630ca342fbda",
+          "Name": "OSPhotoStudio",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d7505c35-38ec-4bbc-a64f-eb47b6fbfd90",
+          "Name": "NRTK Photo Studio",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_66616040-aebd-4de2-8a19-18badd73a11d",
+          "Name": "STUDIO open-shelf",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_c0ccf6b3-bd63-46bc-bbf9-f5fbe95fc2f0",
+          "Name": "簡単！photo box！",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_8d91c6cd-7497-4ccb-aa9c-6a7868481cb7",
+          "Name": "Just Selfie Studio",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_58d3781c-7b1d-4246-aedc-f5c28ef9cf97",
+          "Name": "Easy studio",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_17af0236-e5e1-496c-9ef9-574f920577d5",
+          "Name": "Photography Booth",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_39ee31d0-1019-417e-b04f-ee412315703c",
+          "Name": "Re˸撮影用ワールド",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_9ea27ce5-c0c5-47eb-9eda-edb090bb4406",
+          "Name": "白背景で写真を撮るだけのワールド",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_2639b6c5-8504-4934-bb9e-b88d3544ea6d",
+          "Name": "Just MtUǃǃ",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_679d9eee-f764-4849-810c-420a55199a4c",
+          "Name": "美少女ゲームツクール2020 HD版 ADV-Maker 2020 HD Edition",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        }
+      ]
+    }
+  ]
+}
