@@ -34,6 +34,24 @@
           "Name": "Room ＂A＂",
           "Description": "description",
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_f01d8407-080a-4a9c-8ca8-9cd38cf9be92",
+          "Name": "VEINPRM23W",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_6118f469-ab50-496c-908a-7ad1433df816",
+          "Name": "D3CED1",
+          "Description": "description",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_d01431da-1ada-447a-8a0d-20bf76f2f33e",
+          "Name": "埖箱 IVY",
+          "Description": "小さめのお部屋ワールド",
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -171,6 +189,18 @@
           "Name": "Temporary Shrine",
           "Description": "description",
           "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_dbf2aad5-bcc2-460a-90ca-4dee2d49b772",
+          "Name": "Funwari Laundry",
+          "Description": "コインランドリーのワールド",
+          "ReleaseStatus": "public"
+        },
+        {
+          "ID": "wrld_5bd2a824-75c0-4b41-bfe8-ca5b02809e91",
+          "Name": "あの春を忘れない",
+          "Description": "春ワールドです。最初は冬ですがテーブルの光ってる本をuseするとちょっとした演出しながら春になります。冬に戻すには本棚の本をuseしてください。",
+          "ReleaseStatus": "public"
         }
       ]
     },
@@ -184,21 +214,9 @@
           "ReleaseStatus": "public"
         },
         {
-          "ID": "wrld_30b3db7c-6318-4763-8757-af9a8b2cc741",
-          "Name": "Celestia",
-          "Description": "description",
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_b84e9d07-0fa9-4694-945a-1fd19332b3e2",
-          "Name": "ドラえもんのび太ハウス -doraemon nobita house-",
-          "Description": "description",
-          "ReleaseStatus": "public"
-        },
-        {
-          "ID": "wrld_6f9a1aec-ef34-4c52-af20-d2dd9ea17e21",
-          "Name": "Luculia-ルクリア-",
-          "Description": "description",
+          "ID": "wrld_96869b23-1484-4a40-a17d-b7d29c0ee962",
+          "Name": "深夜の京都散歩 ⁄ Kyoto Midnight Walk",
+          "Description": "2025年3月23日、深夜22時から23時の間に京都・三年坂（産寧坂）で夜間撮影検証を行い、その際に撮影・生成したフォトグラメトリです。",
           "ReleaseStatus": "public"
         }
       ]
@@ -207,9 +225,9 @@
       "Category": "ポータルワールド",
       "Worlds": [
         {
-          "ID": "wrld_cc905a73-a346-4575-82c0-83affcbd9304",
-          "Name": "Natural History Museum - Hintze Hall",
-          "Description": "ロンドン自然史博物館",
+          "ID": "wrld_3d12fbc0-c470-4e97-9191-3cf3aeba8832",
+          "Name": "usio port",
+          "Description": "ウシヲポート",
           "ReleaseStatus": "public"
         }
       ]
